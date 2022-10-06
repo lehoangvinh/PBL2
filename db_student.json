@@ -1,27 +1,14 @@
 [
-    {
-        "id": "102210116",
-        "name": "Vinh",
-        "idComputer": "2"
-    },
-    {
-        "id": "102210116",
-        "name": "Vinh",
-        "idComputer": "2"
-    },
-    {
-        "id": "102210140",
-        "name": "Minh",
-        "idComputer": "2"
-    },
-    {
-        "id": "102210140",
-        "name": "Vinh",
-        "idComputer": "2"
-    },
-    {
-        "id": "102210140",
-        "name": "Vinh",
-        "idComputer": "2"
-    }
+  {
+    "id": "102210140",
+    "name": "Vinh",
+    "isUsingComputer": false,
+    "idComputer": ""
+  },
+  {
+    "id": "102210116",
+    "name": "Vinh",
+    "isUsingComputer": true,
+    "idComputer": "1"
+  }
 ]
